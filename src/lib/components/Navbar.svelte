@@ -28,16 +28,17 @@
 	let isSheetOpen = false;
 </script>
 
-<div class="bg-secondary text-secondary-foreground py-8 px-6">
+<header class="bg-secondary text-secondary-foreground py-8 px-6">
     <nav
     class="max-w-screen-2xl flex justify-between items-center mx-auto">
-    <div class="flex items-center gap-2">
+    <a href="/" class="flex items-center gap-2">
         <div class="bg-primary w-5 h-5 me-4" />
         <div class="flex items-end gap-1">
             <span class="font-bold text-3xl"> Traw </span>
-            <span class="text-2xl uppercase"> / web Developer </span>
+            <span class="text-2xl uppercase hidden sm:flex"> / web Developer </span>
         </div>
-    </div>
+    </a>
+
     <div class="flex ">
 		<ThemeSwich />
 
@@ -79,4 +80,4 @@
     </div>
 </nav>
 
-</div>
+</header>
