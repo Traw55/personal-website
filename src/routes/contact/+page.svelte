@@ -3,7 +3,7 @@
     import Title from "$lib/components/Title.svelte";
     import  Input  from "$lib/components/ui/input/input.svelte";
     import  Label  from "$lib/components/ui/label/label.svelte";
-    import  Textarea from "c:/Users/ali33/new project/personal-website/src/lib/components/ui/textarea/textarea.svelte";
+    import  Textarea from "$lib/components/ui/textarea/textarea.svelte";
     import Button from "$lib/components/ui/button/button.svelte";
 
 </script>
