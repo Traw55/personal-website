@@ -30,7 +30,7 @@
         </div>
         <div>
             <Label for="name">Subject</Label>
-            <Input required name="name" id="name" placeholder="write your name"/>
+            <Input required name="name" id="name" placeholder="..."/>
         </div>
         <div>
             <Label for="email">message</Label>
