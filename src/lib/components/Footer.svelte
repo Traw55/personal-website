@@ -7,7 +7,7 @@
         class="max-w-screen-2xl flex flex-row-reverse md:flex-row justify-between items-center mx-auto"
     >
     <span class="self-end md:self-center">
-        © {(new Date()).getFullYear()} by Traw
+        © {(new Date()).getFullYear()}
     </span>
     <div class="flex flex-col md:flex-row gap-4 md:gap-16 ">
         <span class="flex gap-4 md:gap-0 md:flex-col items-center">

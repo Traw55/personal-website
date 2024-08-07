@@ -15,7 +15,7 @@
 		>
 			<img
 				src="/profile.jpg"
-				class="rounded-full w-64 grayscale"
+				class="rounded-full w-64 "
 				alt="الصورة الشخصية"
 			/>
 
@@ -40,16 +40,7 @@
 			</div>
 			<div class="flex flex-col gap-2">
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-					laboriosam fugiat hic enim eveniet dolore corrupti iusto quasi quidem
-					maiores nostrum beatae optio est, sequi magnam laudantium autem
-					officiis. Et.
-				</p>
-				<p>
-					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat
-					recusandae, vitae, nemo enim ratione corrupti ex laboriosam mollitia,
-					impedit id eaque. Amet eos illum neque eligendi quisquam, similique
-					hic tenetur!
+					Umm Al-Qura - College of Computers - Software Engineering student
 				</p>
 			</div>
 		</div>
