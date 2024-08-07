@@ -3,6 +3,12 @@
 	import Button from "$lib/components/ui/button/button.svelte";
 </script>
 
+<svelte:head>
+	<title>
+		Traw - Web Developer
+	</title>
+</svelte:head>
+
 <div class="flex justify-end pb-[35rem] lg:pb-0">
 	<div
 		class="bg-secondary text-secondary-foreground relative w-full lg:w-[60vw] min-h-[40vh]
@@ -14,7 +20,7 @@
 			  pt-8 gap-2 self-bottom lg:self-start translate-y-[105%] lg:translate-y-[10%] max-w-[85vw]"
 		>
 			<img
-				src="/profile.jpg"
+				src="/profile1.jpg"
 				class="rounded-full w-64 "
 				alt="الصورة الشخصية"
 			/>

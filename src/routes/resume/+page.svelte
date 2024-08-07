@@ -5,6 +5,12 @@
     import Container from "$lib/components/Container.svelte";
 </script>
 
+<svelte:head>
+	<title>
+		Traw - Resume
+	</title>
+</svelte:head>
+
 <Container>
     <Title title="Resume" />
     <div class="pt-16 flex flex-col gap-8">

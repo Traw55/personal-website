@@ -5,6 +5,12 @@
     import Button from "$lib/components/ui/button/button.svelte";
 </script>
 
+<svelte:head>
+	<title>
+		Traw - Projects
+	</title>
+</svelte:head>
+
 <Container class=" flex flex-col gap-16">
     <Title title="Project" />
     <p class="font-bold">

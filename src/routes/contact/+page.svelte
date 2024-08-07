@@ -3,11 +3,17 @@
     import Title from "$lib/components/Title.svelte";
     import  Input  from "$lib/components/ui/input/input.svelte";
     import  Label  from "$lib/components/ui/label/label.svelte";
-    //@ts-ignore
-    import  Textarea from "$lib/components/ui/Textarea/Textarea.svelte";
+    import  Textarea from "c:/Users/ali33/new project/personal-website/src/lib/components/ui/textarea/textarea.svelte";
     import Button from "$lib/components/ui/button/button.svelte";
 
 </script>
+
+<svelte:head>
+	<title>
+		Traw - Let's Talk
+	</title>
+</svelte:head>
+
 <Container class="flex flex-col gap-16">
     <Title title="Let's Talk" />
     <form
