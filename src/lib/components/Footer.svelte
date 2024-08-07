@@ -4,7 +4,7 @@
 </script>
 <footer class="bg-secondary text-secondary-foreground py-2 px-6">
     <div
-        class="max-w-screen-2xl flex justify-between items-center mx-auto"
+        class="max-w-screen-2xl flex flex-row-reverse md:flex-row justify-between items-center mx-auto"
     >
     <span class="self-end md:self-center">
         © {(new Date()).getFullYear()} by Traw

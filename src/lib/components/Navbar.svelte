@@ -4,6 +4,7 @@
     import Button from "./ui/button/button.svelte";
     import * as Sheet from "$lib/components/ui/sheet";
     import ThemeSwich from "./ThemeSwich.svelte";
+    import Title from "./Title.svelte";
 
 
     const link = [
@@ -32,9 +33,9 @@
     <nav
     class="max-w-screen-2xl flex justify-between items-center mx-auto">
     <a href="/" class="flex items-center gap-2">
-        <div class="bg-primary w-5 h-5 me-4" />
+        
         <div class="flex items-end gap-1">
-            <span class="font-bold text-3xl"> Traw </span>
+            <Title title="Traw" class="text-3xl"/>
             <span class="text-2xl uppercase hidden sm:flex"> / web Developer </span>
         </div>
     </a>
